@@ -130,7 +130,7 @@ screens:
             - Open Lens: dev.k8slens.OpenLens
             - Podman Desktop: io.podman_desktop.PodmanDesktop
             - Pods: com.github.marhkb.Pods
-            - PyCharm Professional: com.jetbrains.PyCharm-Professional}
+            - PyCharm Professional: com.jetbrains.PyCharm-Professional
             - PyCharm Community: com.jetbrains.PyCharm-Community
             - VS Codium: com.vscodium.codium
             - VS Code: com.visualstudio.code
